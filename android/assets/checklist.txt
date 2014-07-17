@@ -1,0 +1,22 @@
+Things needed to finish game
+	Code
+		fix bug with destroyed bombs
+		animate the wick
+		animate explosion
+		display score
+			scoreing algorithm each click is 10 every bomb you have on the screen add a doubler multiplier eg for 2 bombs it would be 20 points
+		save highscore
+		game over
+	UI/UX
+		Create splash screen
+		Create Icon for game
+		Create Main menu screen
+			title text
+			background
+			Instructions
+			start button
+		Create High Score/replay screen screen
+			display highscore
+			background
+			replay & exit buttons
+
